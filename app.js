@@ -2,61 +2,18 @@ angular
 .module('mapp', ['ngRoute'])
 .controller('mainCtrl', mainCtrl);
 
-function mainCtrl(mapService, $scope){
+function mainCtrl(mapService, $scope, $rootScope){
 
-    $scope.categories = [
-        {
-            name: 'Films',
-            filePath: 'json/films.json',
-            markerIcon: 'marker_films.png',
-            toggleIconColor: '#2CA9E0'
-        },
-        {
-            name: 'Speakers',
-            filePath: 'json/speakers.json',
-            markerIcon: 'marker_lecturesdebates.png',
-            toggleIconColor: '#8BC340'
-        },
-        {
-            name: 'Music',
-            filePath: 'json/music.json',
-            markerIcon: 'marker_music.png',
-            toggleIconColor: '#F59221'
-        },
-        {
-            name: 'Arts',
-            filePath: 'json/arts.json',
-            markerIcon: 'marker_artsgalleries.png',
-            toggleIconColor: '#DC2A37'
-        },
-        {
-            name: 'Sports',
-            filePath: 'json/sports.json',
-            markerIcon: 'marker_sports.png',
-            toggleIconColor: '#91298D'
-        },
-        {
-            name: 'Special',
-            filePath: 'json/special.json',
-            markerIcon: 'marker_specialevents.png',
-            toggleIconColor: '#FBD128'
-        },
-        {
-            name: 'Parking',
-            filePath: 'json/parking.json',
-            markerIcon: 'marker_parking.png',
-            toggleIconColor: '#00A89B'
-        }
-    ];
+    $rootScope.markersArray = [];
 
-    //Set the starting lat and long
-
-    //denver
+    // Set the starting lat and long
+    // TODO: swap out event JSON files for denver ones
     // var latlng = new google.maps.LatLng(39.7392, -104.9903);
 
-    //flagstaff
+    // flagstaff
     var latlng = new google.maps.LatLng(35.1992, -111.6311);
 
+    // pass this into initMap method to override maps default styles
     var styles = [
         {
             "featureType": "water",
@@ -101,7 +58,7 @@ function mainCtrl(mapService, $scope){
         }
     ];
 
-    //set options to be passed into the map creation function
+    // set map options to be passed into the mapInit method
     var options = {
     	center: latlng,
     	zoom: 14,
@@ -111,5 +68,6 @@ function mainCtrl(mapService, $scope){
     	streetViewControl: false //Disables streetview icon
     };
 
+    // initiate map with options
     mapService.initMap(options, styles);
 }

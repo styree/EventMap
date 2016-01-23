@@ -19,6 +19,7 @@
   "devDependencies": {
     "angular": "~1.4.9",
     "angular-route": "~1.4.9",
-    "jquery": "~2.2.0"
+    "jquery": "~2.2.0",
+    "lodash": "~4.0.0"
   }
 }
