@@ -1,0 +1,178 @@
+ {
+
+    "locations" : [
+
+        {
+
+        "name" : "Heritage Square",
+
+        "latitude" : 35.198531,
+
+        "longitude" : -111.648002,
+
+        "description" : "We will be celebrating the 12th annual KJack Day in Heritage Square. 12 bands will be playing all day along with raffles, trivia games, and prizes. Free Event!",
+
+        "event_name" : "KJack Day",
+
+        "event_date" : "Saturday, May 18th, 2013",
+
+        "event_time" : "11:00am - 6:00pm",
+
+        "location_address" : "111 W Birch Ave, Flagstaff, AZ 86001 ",
+
+        "location_phone" : "(928) 853-4292 ",
+
+        "location_hours": "Not Available",
+
+        "location_website": "heritagesquaretrust.org",
+		
+		"location_photo": "imgs/heritage_square.jpg",
+
+        "color" : "#F59221",
+
+        "marker" : "marker_music.png"
+
+        },
+
+       
+
+        {   
+
+        "name" : "Orphuem Theater",
+
+        "latitude" : 35.198577,
+
+        "longitude" : -111.649477,
+
+        "description" : "Reggae rock band Pepper will be preforming. Tickets are $22 in advance.",
+
+        "event_name" : "Pepper preforming at the Orpheum Theater",
+
+        "event_date" : "Friday, June 7th, 2013",
+
+        "event_time" : "9:00pm - 12:00am",
+
+        "location_address" : "15 W Aspen Ave, Flagstaff, AZ 86001",
+
+        "location_phone" : "(928) 556-1580",
+
+        "location_hours": "Not Available",
+
+        "location_website": "orpheumpresents.com",
+		
+		"location_photo": "imgs/orpheum.jpg",
+
+        "color" : "#F59221",
+
+        "marker" : "marker_music.png"
+
+        },
+
+       
+
+        {
+
+        "name" : "Ardrey Auditorium",
+
+        "latitude" : 35.187970,
+
+        "longitude" : -111.657529,
+
+        "description" : "The Wind Symphony is Northern Arizona University's premiere wind ensemble. It is recognized nationally for high performance standards of outstanding musical literature. ",
+
+        "event_name" : "NAU Wind Symphony Concert",
+
+        "event_date" : "Wednesday, May 1st, 2013",
+
+        "event_time" : "7:30pm - 8:30pm",
+
+        "location_address" : "1322 South Milton Avenue, Flagstaff, AZ 86001",
+
+        "location_phone" : "Not Available",
+
+        "location_hours": "Monday-Friday : 9:00am - 5:00pm",
+
+        "location_website": "nau.edu/skydome-p/main.html",
+		
+		"location_photo": "imgs/ardrey1.jpg",
+
+        "color" : "#F59221",
+
+        "marker" : "marker_music.png"
+
+        },
+
+       
+
+        {
+
+        "name" : "Ashurst Hall",
+
+        "latitude" : 35.192473,
+
+        "longitude" : -111.656080,
+
+        "description" : "Free piano recitals!",
+
+        "event_name" : "Piano Recitals",
+
+        "event_date" : "Tuesday, May 7th, 2013",
+
+        "event_time" : "6:00 PM - 7:00 PM",
+
+        "location_address" : "321 McMullen Circle, Flagstaff, AZ 86011",
+
+        "location_phone" : "(928) 523-3471",
+
+        "location_hours": "Monday-Friday : 8:00am - 10:00pm",
+
+        "location_website": "cal.nau.edu/ashurst",
+		
+		"location_photo": "imgs/ashurt.jpg",
+
+        "color" : "#F59221",
+
+        "marker" : "marker_music.png"
+
+        },
+
+       
+
+        {
+
+        "name" : "Du Bois Center",
+
+        "latitude" : 35.178086,
+
+        "longitude" : -111.655533,
+
+        "description" : "Spectacular internationally themed talent show featuring music, dance, and other cultural performances from NAU students. Prizes for contestants, all attending eligible for door prizes awarded throughout the evening. Show also features random surprises and NAU celebrity judges. All welcome, FREE ADMISSION! Come early to get the best seat!",
+
+        "event_name" : "International Idol",
+
+        "event_date" : "Friday, May 3rd , 2013",
+
+        "event_time" : "7:00 PM - 9:30 PM",
+
+        "location_address" : "306 E. Pine Knoll Dr, Flagstaff, AZ, 86001",
+
+        "location_phone" : "(928) 523-3321",
+
+        "location_hours": "Monday-Friday : 8:00am - 10:00pm",
+
+        "location_website": "home.nau.edu/dubois",
+		
+		"location_photo": "imgs/dub.jpg",
+
+        "color" : "#F59221",
+
+        "marker" : "marker_music.png"
+
+        }
+
+       
+
+    ]
+}
+
+

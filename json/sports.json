@@ -1,0 +1,108 @@
+ {
+
+    "locations" : [
+
+        {
+
+        "name" : "Walkup Skydome",
+
+        "latitude" : 35.180556,
+
+        "longitude" : -111.652862,
+
+        "description" : "The Lumberjack Auction will be raising money for Athletic Scholarships. Donated auction items will include fabulous vacation trips, sports memorabilia and a wide variety of goods and services from local and area businesses and the university's athletic department.",
+
+        "event_name" : "Lumberjack Auction for Athletic Scholarships",
+
+        "event_date" : "Saturday, May 18th, 2013",
+
+        "event_time" : "11:30am-1:45pm",
+
+        "location_address" : "McConnell Dr, Flagstaff, Arizona 86001 ",
+
+        "location_phone" : "(928) 523-9471 ",
+
+        "location_hours": "7:00am-7:00pm",
+
+        "location_website": "nau.edu/skydome-p",
+		
+		"location_photo": "imgs/dome.jpg",
+
+        "color" : "#91298D",
+
+        "marker" : "marker_sports.png"
+
+        },
+
+       
+
+        {   
+
+        "name" : "Collins Irish Pub",
+
+        "latitude" : 35.19765,
+
+        "longitude" : -111.64886,
+
+        "description" : "The Northern Arizona University Athletics Department will hold its final Coaches Luncheon of the school year. Speaking at the coaches luncheon will be Head Football Coach Jerome Souers, Head Soccer Coach Andre Luciano, Head Volleyball Coach Craig Choate, Head Golf Coach Brad Bedortha and the Director of Men's & Women's Tennis Kim Bruno. As always, the event will be hosted by “The Voice of the Lumberjacks” Mitch Strohman. Reservations are not required.",
+
+        "event_name" : "Coaches Luncheon",
+
+        "event_date" : "Thursday, April 18th 2013",
+
+        "event_time" : "12:00pm",
+
+        "location_address" : "2 North Leroux Street, Flagstaff, AZ 86001",
+
+        "location_phone" : "(928) 214-7363",
+
+        "location_hours": "11:00am-2:00am",
+
+        "location_website": "collinsirishpub.com",
+		
+		"location_photo": "imgs/collins.jpg",
+
+        "color" : "#91298D",
+
+        "marker" : "marker_sports.png"
+
+        },
+
+       
+
+        {
+
+        "name" : "Lumberjack Stadium",
+
+        "latitude" : 35.189231,
+
+        "longitude" : -111.650587,
+
+        "description" : "The Northern Arizona Blue-Gold spring football game will be held on Saturday, April 27 at Lumberjack Stadium. FOX Sports Arizona will televise the game live and it will precede the Arizona Diamondbacks-Colorado Rockies telecast on FSAZ. The Lumberjacks finished with an 8-3 overall record and a No. 20 national FCS ranking in 2012. NAU posted several milestones during the season, including winning eight consecutive games for the first time since the 1958 season (11 games).",
+
+        "event_name" : "Blue-Gold Spring Football Game",
+
+        "event_date" : "Saturday, April 27th, 2013",
+
+        "event_time" : "2:30pm",
+
+        "location_address" : "S San Francisco St, Flagstaff, AZ 86001",
+
+        "location_phone" : "(928) 523-7111",
+
+        "location_hours": "Monday-Friday : 8:00am - 5:00pm",
+
+        "location_website": "nauathletics.com/sports/fball/2012-13/releases/20130327177hnc",
+		
+		"location_photo": "imgs/stadium.jpg",
+
+        "color" : "#91298D",
+
+        "marker" : "marker_sports.png"
+
+        }  
+
+    ]
+}
+
+

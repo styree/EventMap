@@ -1,0 +1,90 @@
+ {
+	"locations" : [
+		{
+		"name" : "1899 Bar & Grill Ballroom",
+		"latitude" : 35.193766,
+		"longitude" : -111.654965,
+		"description" : "Conservation in Arizona and the Intermountain West: Reflections on the past twenty years and what it means for the next twenty. Luther Propst, founder and, until recently, executive director of the Sonoran Institute, will discuss insights, challenges, and opportunities for conservation in Arizona and across the West. Cost: Free.",
+		"event_name" : "Luther Propst Lecture: Conservation in Arizona and the Intermountain West",
+		"event_date" : "Monday, May 20th, 2013",
+		"event_time" : "7:00pm - 10:00pm",
+		"location_address" : "307 W Dupont Ave, Flagstaff, AZ 86001",
+		"location_phone" : "(928) 523-1899",
+		"location_hours": "Monday - Friday : 11:00am - 9:00pm & Saturday - Sunday : 4:00pm - 9:00pm",
+		"location_website": "1899barandgrill.com",
+		"location_photo": "imgs/1899.jpg",
+		"color" : "#8BC340",
+		"marker" : "marker_lecturesdebates.png"
+		},
+		
+		{	
+		"name" : "Flagstaff Medical Center",
+		"latitude" : 35.208757,
+		"longitude" : -111.645877,
+		"description" : "Dr. Pamela Vanderwall, M.D. will discuss the basics of cancer biology, causes, diagnosis, detection, and prevention. There also will be time for questions and answers. Dr. Vanderwall is a radiation oncologist at the Cancer Centers of Northern Arizona Healthcare, located in Flagstaff and Sedona. The Cancer Centers are devoted to the comprehensive treatment and early diagnosis of cancer through advanced technology and individualized care. Cost: Free.",
+		"event_name" : "Cancer 101: What You Need To Know About Cancer",
+		"event_date" : "Thursday, June 20th, 2013",
+		"event_time" : "5:30pm - 6:30pm",
+		"location_address" : "1200 N Beaver St, Flagstaff, AZ 86001",
+		"location_phone" : "(928) 779-3366",
+		"location_hours": "Monday - Sunday : 12:00am - 11:59pm",
+		"location_website": "flagstaffmedicalcenter.com",
+		"location_photo": "imgs/flagmedical.jpg",
+		"color" : "#8BC340",
+		"marker" : "marker_lecturesdebates.png"
+		},
+		
+		{
+		"name" : "Cline Library Assembly Hall",
+		"latitude" : 35.19004,
+		"longitude" : -111.657346,
+		"description" : "Christian Parenti: Climate Chaos: Neoliberal Capitalism, Violent Conflict, and Possibilities for an Equitable Decarbonize Economy. Part of the Social Justice Speaker Series, brought to you by NAU's student group WACBAT (Weatherization and Community Building Action Team). Cost: Free.",
+		"event_name" : "Christian Parenti: Climate Choas",
+		"event_date" : "Wednesday, May 1st, 2013",
+		"event_time" : "6:30pm - 8:00pm",
+		"location_address" : "P.O. Box 6022, Flagstaff, AZ 86001",
+		"location_phone" : "(928) 523-6805",
+		"location_hours": "Monday - Friday : 8:00am - 5:00pm",
+		"location_website": "library.nau.edu",
+		"location_photo": "imgs/library.jpg",
+		"color" : "#8BC340",
+		"marker" : "marker_lecturesdebates.png"
+		},
+		
+		{
+		"name" : "Collins Irish Pub",
+		"latitude" : 35.197641,
+		"longitude" : -111.649005,
+		"description" : "Heather Ainardi, director of the Flagstaff Convention and Visitors Bureau, will be the guest speaker at the first lunch meeting of the season for Flagstaff Communicators. Heather will talk about the economic opportunities available for Flagstaff businesses and even nonprofits during the upcoming summer tourism season. Cost: Members: $10, Guests: $12.",
+		"event_name" : "Heather Ainardi: Flagstaff Convention & Visitors Bureau",
+		"event_date" : "Wednesday, May 10th, 2013",
+		"event_time" : "11:00am - 1:00pm",
+		"location_address" : "2 N Leroux St, Flagstaff, AZ 86001",
+		"location_phone" : "(928) 214-7363",
+		"location_hours": "Monday - Sunday : 11:00am - 2:00am",
+		"location_website": "collinsirishpub.com",
+		"location_photo": "imgs/collins.jpg",
+		"color" : "#8BC340",
+		"marker" : "marker_lecturesdebates.png"
+		},
+		
+		
+			{
+		"name" : "Willow Bend Environmental Education Center",
+		"latitude" : 35.188505,
+		"longitude" : -111.643378,
+		"description" : "Learn how “radical” reptiles really are! Live reptiles to view up-close, courtesy of Arizona Game and Fish Department’s Adobe Mountain Wildlife Center. Cost: Free.",
+		"event_name" : "Radical Reptiles",
+		"event_date" : "Saturday, May 4th, 2013",
+		"event_time" : "10:00am - 11:30am",
+		"location_address" : "703 E Sawmill Rd, Flagstaff, AZ 86001",
+		"location_phone" : "(928) 779-1745",
+		"location_hours": "Monday - Friday : 9:00am - 4:00pm",
+		"location_website": "willowbendcenter.org",
+		"location_photo": "imgs/willow.jpg",
+		"color" : "#8BC340",
+		"marker" : "marker_lecturesdebates.png"
+		}
+		
+	]
+}

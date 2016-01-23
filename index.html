@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <meta name="apple-mobile-web-app-capable" content="yes">
+
+        <link rel="apple-touch-icon" href="apple-touch-icon.png" />
+        <link rel="apple-touch-icon" sizes="157x57" href="imgs/apple-touch-icon-57x57-precomposed.png" />
+        <link rel="apple-touch-icon" sizes="72x72" href="imgs/apple-touch-icon-72x72-precomposed.png" />
+        <link rel="apple-touch-icon" sizes="114x114" href="imgs/apple-touch-icon-114x114-precomposed.png" />
+        <link rel="apple-touch-icon" sizes="144x144" href="imgs/apple-touch-icon-144x144-precomposed.png" />
+
+        <meta name="twitter:card" content="summary">
+        <meta name="twitter:site" content="@steve_tyree">
+        <meta name="twitter:title" content="Discover what's going on near you with Mapp.">
+        <meta name="twitter:description" content="Mapp is a web based application which visually shows you what events are happening in your neighborhood.">
+        <meta name="twitter:creator" content="@steve_tyree">
+        <meta name="twitter:image:src" content="http://stevetyree.com/map/imgs/icon_large.png">
+        <meta name="twitter:domain" content="http://stevetyree.com">
+
+        <link rel="stylesheet" href="styles/build/style.css" type="text/css" media="screen">
+        <!-- <link rel="stylesheet" href="queries.css" type="text/css" media="screen"> -->
+        <link href='http://fonts.googleapis.com/css?family=Archivo+Narrow:400,700' rel='stylesheet' type='text/css'>
+
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+        <meta name="viewport" content="width=device-width">
+
+        <link href="imgs/favicon.ico" rel="icon" type="imgs/x-icon" />
+        <title>MAPP</title>
+    </head>
+
+    <body ng-app="mapp" ng-controller="mainCtrl">
+
+        <ng-include src="'views/header.html'"></ng-include>
+
+        <div id="map"></div>
+        <!-- <ng-include src="'views/baseMap.html'"></ng-include> -->
+
+    </body>
+
+    <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=true"></script>
+
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="bower_components/angular-route/angular-route.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+
+    <script src="app.js"></script>
+    <!-- <script src="sort.js"></script> -->
+    <script src="scripts/controllers/menu.controller.js"></script>
+    <script src="scripts/services/maps.service.js"></script>
+
+</html>

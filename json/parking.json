@@ -1,0 +1,140 @@
+ {
+	"locations" : [
+		{
+		"name" : "HLC Parking",
+		"latitude" : 35.190709,
+		"longitude" : -111.650963,
+		"description" : "Just north of the Health and Learning Center",
+		"event_name" : "NAU Lot P7A",
+		"event_date" : "Available All Week",
+		"event_time" : "Permit required Monday - Friday until 4:30, Free all weekend",
+		"location_address" : "SE and SW corners of Franklin Ave and San Francisco St",
+		"location_phone" : "NAU Parking Services: (982) 523-6623",
+		"location_hours": "Free after 4:30pm",
+		"location_website": "www.nau.edu/Parking-Shuttle-Services/",
+		"location_photo": "imgs/parking.jpg",
+		"color" : "#00A89B",
+		"marker" : "marker_parking.png"
+		},
+		
+		{	
+		"name" : "Cline Library Parking",
+		"latitude" : 35.189548,
+		"longitude" : -111.658511,
+		"description" : "Just behind Cline Library on the west side",
+		"event_name" : "NAU Lot P13",
+		"event_date" : "Available All Week",
+		"event_time" : "Permit required Monday - Friday until 4:30, Free all weekend",
+		"location_address" : "East corner of Riordan Rd and Riordan Ranch St",
+		"location_phone" : "NAU Parking Services: (982) 523-6623",
+		"location_hours": "Free after 4:30pm",
+		"location_website": "www.nau.edu/Parking-Shuttle-Services/",
+		"location_photo": "imgs/parking.jpg",
+		"color" : "#00A89B",
+		"marker" : "marker_parking.png"
+		},
+		
+		{
+		"name" : "San Francisco Parking Garage",
+		"latitude" : 35.187603,
+		"longitude" : -111.653264,
+		"description" : "Between The NAU Bookstore and Sechrist Dorm, Day Passes available at the entrance ($15)",
+		"event_name" : "NAU Lot P96B",
+		"event_date" : "Available All Week",
+		"event_time" : "Available until 8PM",
+		"location_address" : "SW corner of Mountain View Dr and San Francisco St",
+		"location_phone" : "NAU Parking Services: (982) 523-6623",
+		"location_hours": "All Week, Day Permits expire at 8PM",
+		"location_website": "www.nau.edu/Parking-Shuttle-Services/",
+		"location_photo": "imgs/parking.jpg",
+		"color" : "#00A89B",
+		"marker" : "marker_parking.png"
+		},
+		
+		{
+		"name" : "South Campus Recreation Parking",
+		"latitude" : 35.176562,
+		"longitude" : -111.660211,
+		"description" : "North of the South Campus Soccer Fields and Disc Golf Course",
+		"event_name" : "NAU Lot P62",
+		"event_date" : "Available All Week",
+		"event_time" : "Permit required Monday - Friday until 4:30, Free all weekend",
+		"location_address" : "South of McConnell Dr and Pine Knoll Dr",
+		"location_phone" : "NAU Parking Services: (982) 523-6623",
+		"location_hours": "Free after 4:30pm",
+		"location_website": "www.nau.edu/Parking-Shuttle-Services/",
+		"location_photo": "imgs/parking.jpg",
+		"color" : "#00A89B",
+		"marker" : "marker_parking.png"
+		},
+		
+		{
+		"name" : "NAU Skydome Visitor Parking",
+		"latitude" : 35.179749,
+		"longitude" : -111.651204,
+		"description" : "South of The Skydome, Permits available from NAU Parking Services or at a Parking Kiosk",
+		"event_name" : "NAU Lot P65 & P66",
+		"event_date" : "Available All Week",
+		"event_time" : "Permit required Monday - Friday, Free all weekend",
+		"location_address" : "Just north of Pine Knoll Dr and San Francisco St",
+		"location_phone" : "NAU Parking Services: (982) 523-6623",
+		"location_hours": "All Week, Day Permits expire at 10PM",
+		"location_website": "www.nau.edu/Parking-Shuttle-Services/",
+		"location_photo": "imgs/parking.jpg",
+		"color" : "#00A89B",
+		"marker" : "marker_parking.png"
+		},
+		
+		{
+		"name" : "Flagstaff Public Parking",
+		"latitude" : 35.197625,
+		"longitude" : -111.652379,
+		"description" : "At the AmTrak Transfer Center",
+		"event_name" : "Flagstaff Public Parking",
+		"event_date" : "Available All Week and Weekend",
+		"event_time" : "No Permit Required, No overnight parking",
+		"location_address" : "NW corner of Phoenix Ave and Mikes Pike",
+		"location_phone" : "Not Available",
+		"location_hours": "All Week and Weekend",
+		"location_website": "Not Available",
+		"location_photo": "imgs/parking.jpg",
+		"color" : "#00A89B",
+		"marker" : "marker_parking.png"
+		},
+		
+		{
+		"name" : "Flagstaff Public Parking",
+		"latitude" : 35.197064,
+		"longitude" : -111.648495,
+		"description" : "Across the tracks from the Lumberyard Brewing Company",
+		"event_name" : "Flagstaff Public Parking",
+		"event_date" : "Available All Week and Weekend",
+		"event_time" : "No Permit Required, 2 hour parking until 6PM",
+		"location_address" : "SW corner of Route 66 and San Francisco St",
+		"location_phone" : "Not Available",
+		"location_hours": "All Week and Weekend, 2 hour parking until 6PM",
+		"location_website": "Not Available",
+		"location_photo": "imgs/parking.jpg",
+		"color" : "#00A89B",
+		"marker" : "marker_parking.png"
+		},
+		
+		{
+		"name" : "Old Town Shops Parking Garage",
+		"latitude" : 35.199198,
+		"longitude" : -111.647988,
+		"description" : "Entrance on the North side of the shopping plaza",
+		"event_name" : "Pay Parking Garage",
+		"event_date" : "Available All Week and Weekend",
+		"event_time" : "Day pass available for $10. Closes at 2AM",
+		"location_address" : "West of San Francisco St and Birch Ave",
+		"location_phone" : "Not Available",
+		"location_hours": "All Week and Weekend, $10 Day pass, closes at 2AM",
+		"location_website": "oldtownshops.net",
+		"location_photo": "imgs/parking.jpg",
+		"color" : "#00A89B",
+		"marker" : "marker_parking.png"
+		}
+		
+	]
+}
