@@ -1,23 +1,20 @@
  {
 	"locations" : [
 		{
-		"name" : "Coconino Community College",
-		"latitude" : 35.172195,
-		"longitude" : -111.64577,
-		"description" : "The annual Coconino Community College Foundation hosted fundraiser invites you to attend and support their Fine Arts Department. There will be local restaurants serving hors d’oeuvres and desserts, alongside a live art auction which features original works by local artists. All proceeds from this event benefit CCC’s Fine Arts Department. Come support your local artists while enjoying food from the finest restaurants in town! Cost: $20 - $70.",
-		"event_name" : "2013 Annual CCC Palette to Palate",
-		"event_date" : "Friday, April 26th, 2013",
-		"event_time" : "5:30pm - 9:00pm",
-		"location_address" : "2800 S Lone Tree Rd, Flagstaff, AZ 86001",
-		"location_phone" : "(928) 523-1899",
-		"location_hours": "Monday - Friday : 8:00am - 5:00pm",
-		"location_website": "coconino.edu",
-		"location_photo": "imgs/coconino.jpg",
-		"color" : "#DC2A37",
-		"marker" : "marker_artsgalleries.png"
+    		"name" : "Coconino Community College",
+    		"latitude" : 35.172195,
+    		"longitude" : -111.64577,
+    		"description" : "The annual Coconino Community College Foundation hosted fundraiser invites you to attend and support their Fine Arts Department. There will be local restaurants serving hors d’oeuvres and desserts, alongside a live art auction which features original works by local artists. All proceeds from this event benefit CCC’s Fine Arts Department. Come support your local artists while enjoying food from the finest restaurants in town! Cost: $20 - $70.",
+    		"event_name" : "2013 Annual CCC Palette to Palate",
+    		"event_date" : "Friday, April 26th, 2013",
+    		"event_time" : "5:30pm - 9:00pm",
+    		"location_address" : "2800 S Lone Tree Rd, Flagstaff, AZ 86001",
+    		"location_phone" : "(928) 523-1899",
+    		"location_hours": "Monday - Friday : 8:00am - 5:00pm",
+    		"location_website": "coconino.edu",
+    		"location_photo": "imgs/coconino.jpg"
 		},
-		
-		{	
+		{
 		"name" : "Beasley Gallery",
 		"latitude" : 35.188435,
 		"longitude" : -111.657835,
@@ -33,58 +30,47 @@
 		"color" : "#DC2A37",
 		"marker" : "marker_artsgalleries.png"
 		},
-		
-	{
-    "name": "NAU Art Museum",
-    "latitude": 35.192695,
-    "longitude": -111.65606,
-    "description": "The NAU Art Museum presents an exhibition featuring artists and professors from the NAU School of art faculty. It includes multimedia ranging from sculpture to print. There will be an artist reception on May 9th from 5 to 7PM, with refreshments provided. To visit, please park in the spaces behind the Old Main Building and see our front desk for a permit. Cost: Free.",
-    "event_date": "May 7th - May 31st, 2013",
-    "event_time": "12:00pm - 5:00pm",
-    "location_address": "321 McMullen Circle, Building #10, Room #M205, Flagstaff, AZ 86011",
-    "location_phone": "(928) 523-4371",
-    "location_hours": "Tuesday - Saturday, 12:00pm - 5:00PM",
-    "location_website": "nau.edu/artmuseum",
-    "location_photo": "imgs/nauartmuseum.jpg",
-    "color": "#DC2A37",
-    "marker": "marker_artsgalleries.png"
-},
-		
+        {
+            "name": "NAU Art Museum",
+            "latitude": 35.192695,
+            "longitude": -111.65606,
+            "description": "The NAU Art Museum presents an exhibition featuring artists and professors from the NAU School of art faculty. It includes multimedia ranging from sculpture to print. There will be an artist reception on May 9th from 5 to 7PM, with refreshments provided. To visit, please park in the spaces behind the Old Main Building and see our front desk for a permit. Cost: Free.",
+            "event_date": "May 7th - May 31st, 2013",
+            "event_time": "12:00pm - 5:00pm",
+            "location_address": "321 McMullen Circle, Building #10, Room #M205, Flagstaff, AZ 86011",
+            "location_phone": "(928) 523-4371",
+            "location_hours": "Tuesday - Saturday, 12:00pm - 5:00PM",
+            "location_website": "nau.edu/artmuseum",
+            "location_photo": "imgs/nauartmuseum.jpg",
+            "color": "#DC2A37",
+            "marker": "marker_artsgalleries.png"
+        },
 		{
-		"name" : "Wheeler Park",
-		"latitude" : 35.199866,
-		"longitude" : -111.651365,
-		"description" : "'Flagstaff Art in the Park' are arts and crafts festivals that feature tightly juried one-of-a-kind fine art and fine crafts designed and shown by the artists. These shows take place over the Fourth of July and Labor Day weekends in Wheeler Park in Downtown Flagstaff; a beautiful tree shaded, grassy venue across the street from City Hall and on the main thoroughfare to the Grand Canyon. In addition to nearly one hundred artists from across the Southwest, these shows feature non stop live music throughout the three days of each event. So come and join us once again for another amazing season of art and music in the heart of Northern Arizona's cool pines!",
-		"event_name" : "7th Annual Art in the Park",
-		"event_date" : "Thursday - Saturday, July 4th, 5th & 6th, 2013",
-		"event_time" : "9:00am - 6:00pm",
-		"location_address" : "212 W. Aspen Ave., Flagstaff, AZ, 86001",
-		"location_phone" : "(928) 774-5281",
-		"location_hours": "Not Available",
-		"location_website": "flagstaffartinthepark.com",
-		"location_photo": "imgs/wheeler.jpg",
-		"color" : "#DC2A37",
-		"marker" : "marker_artsgalleries.png"
+    		"name" : "Wheeler Park",
+    		"latitude" : 35.199866,
+    		"longitude" : -111.651365,
+    		"description" : "'Flagstaff Art in the Park' are arts and crafts festivals that feature tightly juried one-of-a-kind fine art and fine crafts designed and shown by the artists. These shows take place over the Fourth of July and Labor Day weekends in Wheeler Park in Downtown Flagstaff; a beautiful tree shaded, grassy venue across the street from City Hall and on the main thoroughfare to the Grand Canyon. In addition to nearly one hundred artists from across the Southwest, these shows feature non stop live music throughout the three days of each event. So come and join us once again for another amazing season of art and music in the heart of Northern Arizona's cool pines!",
+    		"event_name" : "7th Annual Art in the Park",
+    		"event_date" : "Thursday - Saturday, July 4th, 5th & 6th, 2013",
+    		"event_time" : "9:00am - 6:00pm",
+    		"location_address" : "212 W. Aspen Ave., Flagstaff, AZ, 86001",
+    		"location_phone" : "(928) 774-5281",
+    		"location_hours": "Not Available",
+    		"location_website": "flagstaffartinthepark.com",
+    		"location_photo": "imgs/wheeler.jpg"
 		},
-		
 		{
-		"name" : "First Friday Art Walk",
-		"latitude" : 35.197586,
-		"longitude" : -111.647615,
-		"description" : "Each month, art galleries and businesses in historic Downtown Flagstaff open their doors with special art exhibitions, performances, live music, treats and much much more. Sponsored by Flagstaff Cultural Partners. Cost: Free.",
-		"event_date" : "The first Friday of every month",
-		"event_time" : "6:00pm - 11:00pm",
-		"location_address" : "Downtown Flagstaff",
-		"location_phone" : "(928) 779-2300",
-		"location_hours": "Not Available",
-		"location_website": "flagstaffartwalk.com",
-		"location_photo": "imgs/artwalk.jpg",
-		"color" : "#DC2A37",
-		"marker" : "marker_artsgalleries.png"
+    		"name" : "First Friday Art Walk",
+    		"latitude" : 35.197586,
+    		"longitude" : -111.647615,
+    		"description" : "Each month, art galleries and businesses in historic Downtown Flagstaff open their doors with special art exhibitions, performances, live music, treats and much much more. Sponsored by Flagstaff Cultural Partners. Cost: Free.",
+    		"event_date" : "The first Friday of every month",
+    		"event_time" : "6:00pm - 11:00pm",
+    		"location_address" : "Downtown Flagstaff",
+    		"location_phone" : "(928) 779-2300",
+    		"location_hours": "Not Available",
+    		"location_website": "flagstaffartwalk.com",
+    		"location_photo": "imgs/artwalk.jpg"
 		}
-
-
-		
-		
 	]
 }

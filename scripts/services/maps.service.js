@@ -1,12 +1,16 @@
-mapp
+angular
+.module('mapp')
 .service('mapService', mapService);
 
-function mapService(){
+function mapService($rootScope){
     return{
-        initMap: function(options){
-            var map;
+        initMap: function(options, styles){
+            $rootScope.map;
 
-            map = new google.maps.Map(document.getElementById('map'), options);
+            $rootScope.map = new google.maps.Map(document.getElementById('map'), options);
+            $rootScope.map.setOptions({styles: styles});
+
+            return $rootScope.map;
         }
     }
 }

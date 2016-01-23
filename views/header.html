@@ -8,33 +8,9 @@
     <h4>MENU</h4>
 
     <ul>
-        <li ng-click="getMarkers(type)">
-            <div class="toggle-icon"></div>
-            <span>FILMS</span>
-        </li>
-        <li ng-click="getMarkers(type)">
-            <div class="toggle-icon"></div>
-            <span>SPEAKERS</span>
-        </li>
-        <li ng-click="getMarkers(type)">
-            <div class="toggle-icon"></div>
-            <span>MUSIC</span>
-        </li>
-        <li ng-click="getMarkers(type)">
-            <div class="toggle-icon"></div>
-            <span>ARTS &amp; GALLERIES</span>
-        </li>
-        <li ng-click="getMarkers(type)">
-            <div class="toggle-icon"></div>
-            <span>SPORTS</span>
-        </li>
-        <li ng-click="getMarkers(type)">
-            <div class="toggle-icon"></div>
-            <span>SPECIAL EVENTS</span>
-        </li>
-        <li ng-click="getMarkers(type)">
-            <div class="toggle-icon"></div>
-            <span>PARKING</span>
+        <li ng-repeat="type in categories" ng-click="getMarkers(type)">
+            <div class="toggle-icon" ng-style="{'background-color':type.toggleIconColor}"></div>
+            <span>{{type.name}}</span>
         </li>
     </ul>
 

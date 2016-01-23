@@ -1,0 +1,60 @@
+ {
+	"locations" : [
+		{
+    		"name" : "Harkins Flagstaff",
+    		"latitude" : 35.182358,
+    		"longitude" : -111.668762,
+    		"description" : "The film follows Fitzgerald-like, would-be writer Nick Carraway as he leaves the Midwest and comes to New York City in the spring of 1922, an era of loosening morals, glittering jazz and bootleg kings. Chasing his own American Dream, Nick lands next door to a mysterious, party-giving millionaire, Jay Gatsby, and across the bay from his cousin, Daisy, and her philandering, blue-blooded husband, Tom Buchanan. It is thus that Nick is drawn into the captivating world of the super-rich, their illusions, loves and deceits. As Nick bears witness, within and without the world he inhabits, he pens a tale of impossible love, incorruptible dreams and high-octane tragedy, and holds a mirror to our own modern times and struggles.",
+    		"event_name" : "The Great Gatsby",
+    		"event_date" : "Monday, May 10th, 2013",
+    		"event_time" : "9:35am, 11:30am, 1:30pm, 3:45pm, 5:15pm, 7:45pm, 9:30pm, 11:00pm ",
+    		"location_address" : "1959 S Woodlands Village Blvd Flagstaff, AZ 86001‎",
+    		"location_phone" : "(982) 774-4700",
+    		"location_hours": "Sunday - Saturday : 9:00am - 11:00pm",
+    		"location_website": "harkinstheatres.com",
+    		"location_photo": "imgs/harkins.jpg"
+		},
+		{
+    		"name" : "Prochnow Auditorium",
+    		"latitude" : 35.193621,
+    		"longitude" : -111.655568,
+    		"description" : "Prochnow Movies are shown most Thursday, Friday and Saturday nights at 8pm. Movies and concessions are free to NAU students faculty and staff with a valid NAU ID.",
+    		"event_name" : "Prochnow Presents: Rocky Horror Picture Show",
+    		"event_date" : "Friday, May 10th, 2013",
+    		"event_time" : "8:00pm",
+    		"location_address" : "Northern Arizona University, Flagstaff, AZ 86001",
+    		"location_phone" : "(928) 523-5638",
+    		"location_hours": "Friday - Sunday : 7:00pm - 11:00pm",
+    		"location_website": "home.nau.edu/emsa/sun/movies",
+    		"location_photo": "imgs/prochnow.jpg"
+		},
+		{
+    		"name" : "Orpheum Theater",
+    		"latitude" : 35.198584,
+    		"longitude" : -111.649434,
+    		"description" : "Admission is $5.00 at the door & $3.00 with a student ID. All Ages Event!",
+    		"event_name" : "Northern Arizona Student Film Festival",
+    		"event_date" : "Monday, May 6th, 2013",
+    		"event_time" : "6:45pm - 10:00pm",
+    		"location_address" : "15 W Aspen St Flagstaff, AZ 86001",
+    		"location_phone" : "(928) 556-1580",
+    		"location_hours": "Not Available",
+    		"location_website": "orpheumpresents.com",
+    		"location_photo": "imgs/orpheum.jpg"
+		},
+		{
+    		"name" : "NAU Wall Aquatic Center",
+    		"latitude" : 35.190908,
+    		"longitude" : -111.652465,
+    		"description" : "Mark your calendar for 6/1 at 8pm! The NAU Wall Aquatic Center, along with SUN Entertainment are hosting another Dive In Movie for all NAU students- Pitch Perfect! See you there!",
+    		"event_name" : "Dive-in Movie",
+    		"event_date" : "Saturday, June 1st, 2013",
+    		"event_time" : "8:00pm - 10:00pm",
+    		"location_address" : "705 S San Francisco St Flagstaff, AZ 86001",
+    		"location_phone" : "(982) 523-4509",
+    		"location_hours": "Monday - Friday: 11:30 am - 1:30pm and 7:00pm - 9:30pm & Saturday - Sunday: 12:30pm - 4:30pm",
+    		"location_website": "nau.edu/Recreation-Services/Wall-Aquatic-Center",
+    		"location_photo": "imgs/wall.jpg"
+		}
+	]
+}
