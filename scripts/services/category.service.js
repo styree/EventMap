@@ -1,13 +1,18 @@
-angular
-.module('mapp')
-.service('categoryService', categoryService);
+(function() {
+	'use strict';
 
-function categoryService(){
-    return{
-        getCategoryEvents: function(categoryObj){
-            return $.getJSON(categoryObj.filePath, function(categoryEventsArray) {
-                return categoryEventsArray;
-            });
-        }
-    }
-}
+	angular
+		.module('mapp')
+		.service('categoryService', categoryService);
+
+	function categoryService() {
+		return {
+			getCategoryEvents: function(categoryObj) {
+				return $.getJSON(categoryObj.filePath, function(categoryEventsArray) {
+					return categoryEventsArray;
+				});
+			}
+		};
+	}
+
+})();
