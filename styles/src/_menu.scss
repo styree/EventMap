@@ -24,8 +24,8 @@ ul{
 li {
     list-style-type: none;
 	height: 15px;
-	width: 100%;
-	border-top: 1px solid #ececec;
+	width: calc(100% - 40px);
+	border-top: 1px solid #333;
 	padding: 25px 20px;
 	font-family:"BebasRegular", Helvetica, Arial, sans-serif;
 	cursor:pointer;

@@ -5,9 +5,9 @@
 		.module('mapp', ['ngRoute'])
 		.controller('mainCtrl', mainCtrl);
 
-	mainCtrl.$inject = ['mapService', '$scope', '$rootScope'];
+	mainCtrl.$inject = ['mapService', '$scope', '$rootScope', 'eventService'];
 
-	function mainCtrl(mapService, $scope, $rootScope) {
+	function mainCtrl(mapService, $scope, $rootScope, eventService) {
 
 		$rootScope.markersArray = [];
 
@@ -83,6 +83,11 @@
 
 		// initiate map with options
 		mapService.initMap(options, styles);
+		
+		eventService.getRandom()
+		.then(function(resp){
+			console.log(resp);
+		});
 	}
 
 })();
